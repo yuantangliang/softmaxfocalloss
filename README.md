@@ -1,6 +1,8 @@
 # softmaxfocalloss
 the focal loss in Aritcal [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)
 
+I just test this lib on MxNet 0.9.5 
+
 ## Installation
 
 1. Clone the softmaxfocalloss repository, and we'll call the directory that you cloned softmaxfocalloss as ${FOCAL_LOSS_ROOT}.
