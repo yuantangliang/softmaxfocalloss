@@ -1,7 +1,7 @@
 # softmaxfocalloss
 the focal loss in Aritcal [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)
 
-I just test this lib on MxNet 0.9.5 
+Code is test  on   MxNet 0.11.0 
 
 ## Installation
 
